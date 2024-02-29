@@ -2,7 +2,7 @@ repo_name: mcabreradev/nextjs-pages-router-poc
 report_id: 83b6ea6ec1a74ebdda4655fcac89e812
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:44:01+00:00'
+timestamp: '2024-02-29T18:45:05+00:00'
 requested_by: mcabreradev
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2023-09-05 16:46:10.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.4.19
   open_source: true
